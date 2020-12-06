@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/food-review/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/food-review/static/js/main.02413c30.chunk.js",
+    "main.js.map": "/food-review/static/js/main.02413c30.chunk.js.map",
+    "runtime-main.js": "/food-review/static/js/runtime-main.615e847d.js",
+    "runtime-main.js.map": "/food-review/static/js/runtime-main.615e847d.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/food-review/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.5ef47e11.chunk.js": "/food-review/static/js/2.5ef47e11.chunk.js",
+    "static/js/2.5ef47e11.chunk.js.map": "/food-review/static/js/2.5ef47e11.chunk.js.map",
+    "static/js/3.787fb794.chunk.js": "/food-review/static/js/3.787fb794.chunk.js",
+    "static/js/3.787fb794.chunk.js.map": "/food-review/static/js/3.787fb794.chunk.js.map",
+    "index.html": "/food-review/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/food-review/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/food-review/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.5ef47e11.chunk.js.LICENSE.txt": "/food-review/static/js/2.5ef47e11.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.615e847d.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.5ef47e11.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.02413c30.chunk.js"
+  ]
+}
